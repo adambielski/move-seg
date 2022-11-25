@@ -4,7 +4,7 @@ Official code for MOVE: Unsupervised Movable Object Segmentation and Detection; 
 *Adam Bielski, Paolo Favaro*  
 Link to the paper: https://arxiv.org/abs/2210.07920
 
-![Alt text](figures/examples.png)
+![Alt text](figures/examples.jpg)
 
 # Getting Started
 Install the dependencies in a new conda environment using the following command:
