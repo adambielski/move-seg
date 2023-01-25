@@ -68,7 +68,7 @@ author={Adam Bielski and Paolo Favaro},
 booktitle={Advances in Neural Information Processing Systems},
 editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
 year={2022},
-url={https://openreview.net/forum?id=-t9FUWW5f3u}
+url={https://arxiv.org/abs/2210.07920}
 }
 ```
 
